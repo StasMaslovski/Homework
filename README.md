@@ -1,1 +1,1 @@
-# This repository include the homework from course "Automated testing with Selenium and Python"
+# This repository includes the homework from course "Automated testing with Selenium and Python"
